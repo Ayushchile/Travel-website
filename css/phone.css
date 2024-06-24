@@ -1,0 +1,41 @@
+#navbar{
+    flex-direction: column;
+}
+
+#home{
+    height: 280px;
+    padding: -5px 400px;
+}
+
+
+#home h1{
+    margin: 21px -291px;
+}
+
+
+#services{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#about{
+    flex-direction: column;
+    overflow: hidden;
+}
+#about .box{
+    display: block;
+    padding: -1px 129px;
+    /* margin-right: 60px; */
+    
+}
+.primary{
+    font-size: 2rem;
+}
+.center{
+    margin-top: 169px;
+}
+.habout{
+    margin-top: 10px;
+    margin-bottom: 93px;
+}
